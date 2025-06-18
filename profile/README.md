@@ -22,7 +22,7 @@ Github pipeline to deploy dockerfile and run application tests. <br/>
 database bacpac file is in .github repository of this organization.<br/>
 Azure link : https://helmestask-webapp-d4gudgaqareth2eh.northeurope-01.azurewebsites.net/swagger/index.html
 
-# Repository Helmes-Task-React
+## Repository Helmes-Task-React
 Upon all the sectors are loaded from backend.<br/>
 User can insert name, pick wanted sectors and accept terms. <br/>
 After filling out all required fields, user can press the update information button that register's the user (name and terms) and it's chosen sectors.<br/>

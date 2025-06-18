@@ -15,7 +15,6 @@ According to eSim team technologies, next technologies were chosen
 .NET 6.020, React (VITE), MS SQL
 
 ## Repository Helmes-Task-Backend
-### Uses MS SQL as a database. 
 Connection to database: "DefaultConnection": "Server=tcp:helmestask-webapp-server.database.windows.net,1433;Initial Catalog=helmestask-webapp-database;Persist Security Info=False;User ID=helmestask-webapp-server-admin;Password=dmB3bsUuyK$GlzXK;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"<br/>
 
 Github pipeline to deploy dockerfile and run application tests. <br/>
